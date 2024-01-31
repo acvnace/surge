@@ -1,3 +1,3 @@
-.powerupgammas.com
-.teachable.com
-.yc.yahoo.com
+DOMAIN-SUFFIX,powerupgammas.com
+DOMAIN-SUFFIX,teachable.com
+DOMAIN-SUFFIX,yc.yahoo.com
