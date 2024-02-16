@@ -5,4 +5,3 @@ DOMAIN-SUFFIX,teachablecdn.com
 DOMAIN-SUFFIX,firstrade.com
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,interactivebrokers.com
-PROCESS-NAME,trader
