@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,firstrade.com
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,hotmart.com
+DOMAIN-SUFFIX,ivolatility.com
