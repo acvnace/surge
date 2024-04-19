@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,teachable.com
 DOMAIN-SUFFIX,yc.yahoo.com
 DOMAIN-SUFFIX,teachablecdn.com
 DOMAIN-SUFFIX,firstrade.com
+DOMAIN-SUFFIX,ycombinator.com
+DOMAIN-KEYWORD,zlibrary
