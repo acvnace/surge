@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,teachablecdn.com
 DOMAIN-SUFFIX,firstrade.com
 DOMAIN-SUFFIX,ycombinator.com
 DOMAIN-KEYWORD,zlibrary
+DOMAIN-SUFFIX,arxiv.org
