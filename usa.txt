@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,firstrade.com
 DOMAIN-SUFFIX,ycombinator.com
 DOMAIN-KEYWORD,zlibrary
 DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,huggingface.co
