@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,ycombinator.com
 DOMAIN-KEYWORD,zlibrary
 DOMAIN-SUFFIX,arxiv.org
 DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,tradytics.com
